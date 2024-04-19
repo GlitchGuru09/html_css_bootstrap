@@ -1,0 +1,38 @@
+.quote{
+    width: 260px;
+    height: 250px;
+   background-color: black;
+   margin: 20px;
+   position: relative;
+   left: 60%;
+}
+h1{
+    color: white;
+    font-size: 4em;
+}
+body{
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+    margin: 0;
+    background-color: black;
+}
+/* navigation bar */
+
+.navbar{
+    padding: 1em;
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: Montserrat;
+}

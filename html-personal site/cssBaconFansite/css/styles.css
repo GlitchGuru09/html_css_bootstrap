@@ -1,0 +1,27 @@
+/**************tag selectors*************/
+h1
+{
+    color: red;
+    font-size: 200px;
+}
+img:hover
+{
+    background: rgb(249, 248, 248); 
+}
+p
+{
+    color: chartreuse;
+}
+
+/*****************class selectors****************/
+.bacon{
+    background-color: red;
+}
+.skull{
+    background-color: black;
+}
+
+/*****************id selectors******************/
+#heading{
+    color: honeydew;
+}
